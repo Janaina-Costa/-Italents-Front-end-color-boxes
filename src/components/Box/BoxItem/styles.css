@@ -1,0 +1,18 @@
+.container-item{
+  min-width: 11.25rem;
+  height: 11.25rem;
+  border-radius: .5rem;
+  border: solid 2px transparent;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 700;
+  font-size: 1.25rem;
+
+  transition: all 1s;
+}
+
+.container-item:hover{
+  filter: brightness(1.4);
+  border: solid 2px #69baec7a;
+}

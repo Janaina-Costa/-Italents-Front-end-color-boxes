@@ -1,0 +1,16 @@
+.simple_button{
+  max-width: fit-content;
+  padding: 1rem ;
+  border-radius: .874rem;
+  font-size: 1.2rem;
+  cursor: pointer;
+  background-color: #088FE4;
+  outline: none;
+  transition: all 1s;
+  box-shadow: 2px 2px 0px 2px #69baec7a ;
+  color: #ffffff;
+  border: none;
+}
+.simple_button:hover{
+  filter: brightness(1.4);
+}

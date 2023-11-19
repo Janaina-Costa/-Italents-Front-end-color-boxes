@@ -1,0 +1,11 @@
+input{
+  width: 70%;
+  padding: 1rem ;
+  border-radius: .5rem;
+  font-size: 1.2rem;
+  outline: none;
+  box-shadow: 2px 2px 3px 2px #69baec9f ;
+  border: none;
+  background-color: transparent;
+  color: #ffffff;
+}
